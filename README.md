@@ -19,8 +19,9 @@ Then provide the input described in the agent's **Usage** section.
 
 | Folder | Contents |
 |---|---|
-| `ui/` | Visual design, layout, and UX review |
 | `code/` | Code quality, refactoring, test generation |
+| `planning/` | Idea elaboration, spec generation, project scoping |
+| `ui/` | Visual design, layout, and UX review |
 
 ## Agent file format
 
